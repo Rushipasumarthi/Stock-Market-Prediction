@@ -9,7 +9,7 @@
 In this project, we'll predict the price of the S&P500 stock market index.
 
 
-"*"  Download data using the yfinance package
+->  Download data using the yfinance package
 
 
 
@@ -21,5 +21,11 @@ In this project, we'll predict the price of the S&P500 stock market index.
 
 
 ->  Improve the accuracy of the model
+
+
+
+## DATA
+
+We'll download all of the data during the project, using the __yfinance__ package.
 
 
